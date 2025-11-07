@@ -1,0 +1,32 @@
+site_name: iPonto Web Manual
+site_description: Manual do sistema iPonto Web
+site_author: Inspell Softwares
+copyright: Copyright © Inspell Softwares 2025
+site_url: https://ipontoweb.com.br
+nav:
+  - Introdução: index.md
+  - Como iniciar:
+    - Acesso ao sistema: acesso-sistema.md
+  - Conhecendo o sistema:
+    - Dashboard: introducao-dashboard.md
+theme:
+  name: material
+  favicon: media/favicon.ico
+  logo: https://inspell.com.br/imagens/logo_inspell.png
+  palette:
+    primary: custom
+  font:
+    text: Inter
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - to-pdf:
+      author: Inspell Softwares
+      copyright: Copyright © Inspell Softwares 2025
+      cover_title: Manual iPonto Web
+      cover_subtitle: ""
+      toc_title: Conteúdos
+      output_path: pdf/iponto_web_manual.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
