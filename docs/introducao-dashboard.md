@@ -6,6 +6,7 @@ No dashboard do sistema é possível encontrar diversas informações.
 ![Informações básicas dashboard](images/basic-dash-info.png)
 
 Nessa seção é possível encontrar algumas informações relevantes, como:
+
 - Filtro de Unidades de Negócio
 - Capacidade do sistema
 - Status do contrato

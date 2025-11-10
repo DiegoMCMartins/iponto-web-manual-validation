@@ -12,12 +12,16 @@ nav:
 theme:
   name: material
   favicon: media/favicon.ico
+  language: pt-BR
   logo: https://inspell.com.br/imagens/logo_inspell.png
   palette:
     primary: custom
   font:
     text: Inter
+  features:
+    - navigation.top
 extra:
+  version: 0.0.20i
   generator: false
 extra_css:
   - stylesheets/extra.css

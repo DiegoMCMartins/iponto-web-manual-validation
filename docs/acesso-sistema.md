@@ -7,6 +7,7 @@ Para realizar o primeiro acesso na nossa plataforma, acesse https://ipontoweb.co
 ![Tela de login](images/tela-login.png)
 
 Na tela de cadastro, é necessário que seja preenchido os seguintes dados:
+
 1. Chave de acesso: Essa chave é disponibilizada por um de nossos revendedores autorizados. Em caso de dúvidas, contate o revendedor.
 2. CPF/CNPJ: CPF ou CNPJ associado a chave de acesso
 3. Email: Email associado a chave de acesso
